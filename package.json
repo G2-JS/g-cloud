@@ -17,7 +17,8 @@
   },
   "licenses": "GPL",
   "files": [
-    "cloud.js",
+    "LICENSE",
+    "index.js",
     "README.md"
   ]
 }
