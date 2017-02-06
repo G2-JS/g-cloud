@@ -1,0 +1,23 @@
+{
+  "name": "g-cloud",
+  "version": "1.0.2",
+  "description": "a word cloud layout for g2",
+  "keywords": [
+    "g2",
+    "word cloud"
+  ],
+  "homepage": "https://github.com/antvis/g-cloud",
+  "author": "daisy <331992396@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antvis/g-cloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antvis/g-cloud/issues"
+  },
+  "licenses": "GPL",
+  "files": [
+    "cloud.js",
+    "README.md"
+  ]
+}
